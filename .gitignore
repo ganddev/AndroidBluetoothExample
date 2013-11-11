@@ -29,3 +29,5 @@ proguard/
 .idea/
 /bin
 /gen
+gen
+bin
